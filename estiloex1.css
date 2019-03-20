@@ -1,0 +1,25 @@
+#titulo{
+	color:black;
+	font-family:Arial;
+	font-size:20px;
+	text-align:center;
+}
+
+#corpo p{
+	color:red;
+}
+
+#corpo2 p{
+	color:red;
+}
+#corpo2 {
+	float:right;
+}
+
+#corpo3 p{
+	color:red;
+}
+#corpo3{
+	float:right;
+}
+	
